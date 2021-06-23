@@ -35,6 +35,3 @@ while(condition):
             condition = False
     elif choice_check == "no":
         print("\nPlease re-enter the values!")
-        
-
-
